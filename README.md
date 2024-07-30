@@ -8,9 +8,9 @@ This project aims to classify comments into various toxicity categories using ad
 <h1>Streamlit Application</h1>
 The project includes a user-friendly Streamlit application that provides:
 
-Real-Time Toxicity Detection: Input a comment and receive immediate feedback on its toxicity level.
-Interactive Interface: A clean and intuitive UI to interact with the model.
-Real-time Feedback: Displays detailed feedback for various toxicity categories.
+Real-Time Toxicity Detection -> Input a comment and receive immediate feedback on its toxicity level.<br />
+Interactive Interface -> A clean and intuitive UI to interact with the model.<br />
+Real-time Feedback -> Displays detailed feedback for various toxicity categories.
 
 # Results
 The BERT model has shown superior performance with higher accuracy and precision in distinguishing between toxic and non-toxic comments, while LSTM may exhibit limitations in capturing complex textual nuances.
